@@ -26,8 +26,8 @@ python miniprogram_cloudfunctions_request.py -t ios
 
 ### TODO
 
-1.安卓微信 云函数请求 抓包
-2.windows 云函数请求 抓包
+* 1.安卓微信 云函数请求 抓包
+* 2.windows 云函数请求 抓包
 
 
 
